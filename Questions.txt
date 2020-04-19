@@ -1,4 +1,4 @@
-Question1
+Question1.
 Create a User Avatar. You want to style these images differently. 
 Add a CSS class named avatar that fulfils the following requirements:
 
