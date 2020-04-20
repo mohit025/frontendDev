@@ -7,3 +7,6 @@ The avatar's width and height are both 150px.
 The avatar has a solid border, has a width of 2px, and be colored gray.
 
 Example: https://www.gravatar.com/avatar/d4f909e9619c6295cc268fe7ae3a2255?s=420
+
+Question2.
+Write CSS so that link <a href="http://www.w3schools.com">Check documentation</a> and cursor looks like a question mark.
